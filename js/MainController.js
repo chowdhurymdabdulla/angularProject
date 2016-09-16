@@ -1,5 +1,5 @@
 var MainController = function MainController($scope){
-		$scope.name = 'Abdulla';
+		$scope.myDate = 234354354;
 };
 
 angular
